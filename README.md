@@ -12,6 +12,7 @@ https://github.com/jpanuncialman/personal-site
 
 Custom WordPress theme created for my personal website and portfolio.
 
+
 ## Technologies
 
 - WordPress, HTML 5, CSS3, JS/jQuery
